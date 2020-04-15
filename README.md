@@ -3,7 +3,20 @@
 
   This is a simple DBMS project.We are created this project for our semester final project submission.
 ---------------------------------------------------------------------------------------------------------
+Project Done By
+----------------
+**group members:
+-----------------
+1.Name:Joy Ahmed
+  ID:181-15-1806
+2.Name:Kh Mehedi Hasan
+  ID:181-15-1810
+3.Name:Zulhaz Joy
+  ID:181-15-2018
 
+
+Overview:
+---------
 Blood Bank Management System (BBMS) is database system to link between the donors and
 blood banks and act as an interface for the patient to find his/her desired blood in a fast and
 efficient way. It will make the blood transfusion service and its management more reliable and
